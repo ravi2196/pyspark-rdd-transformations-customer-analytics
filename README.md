@@ -111,14 +111,6 @@ The dataset contains **18,000+ customer records** with the following features:
 
 ---
 
-## 🚀 How to Run
-
-### 1. Start PySpark Shell
-```bash
-pyspark
-
----
-
 ## 🎯 Future Improvements
 
 * Convert RDD → DataFrame API
